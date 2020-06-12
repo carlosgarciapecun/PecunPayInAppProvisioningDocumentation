@@ -1,4 +1,4 @@
-# Utilización de la biblioteca PecunPayInAppProvisioning
+# Utilización de la biblioteca
 
 
 
@@ -138,7 +138,7 @@ Al pulsar el botón proporcionado por Apple se debera:
 
 Ejemplo de campo para recopilar código enviado por SMS
 
-![Recopilar código enviado por SMS](../assets/images/Recopilar_codigo_enviado_por_SMS.png)
+![Recopilar código enviado por SMS](../assets/images/Recopilar código enviado por SMS.png)
 
 
 
@@ -161,4 +161,3 @@ inAppProvisioning.showInAppProvisioningController(for: card, withSmsCode: smsCod
     }
 }
 ```
-
