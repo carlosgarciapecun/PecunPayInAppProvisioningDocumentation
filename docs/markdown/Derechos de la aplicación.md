@@ -14,7 +14,7 @@ Para que la aplicación pueda disponer de la funcionalidad de digitalizar tarjet
 
 Para que la apicación compile habiendo aplicado estos derechos, se deberá usar un Provisioning Profile que los incluya. Si se ha elegido el identificador de la aplicación una vez se esté en la lista blanca de Apple al crear o editarla (en caso de ya existir), los **Provisioning Profile** (tanto el de desarrollo como el de producción), en el paso de la configuración se podrá elegir el derecho extendido ***ApplePay In-App Provisioning Development***.
 
-![03_Generar_provisioning_profile](../assets/images/03_Generar_provisioning_profile.png)
+![03_Generar_provisioning_profile](../../assets/images/03_Generar_provisioning_profile.png)
 
 
 ## Implementación de derechos
